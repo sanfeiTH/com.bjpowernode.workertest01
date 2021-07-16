@@ -5,4 +5,8 @@ public class Person {
     String id;
     int age;
     String address;
+
+    public static void  s(){
+
+    }
 }
